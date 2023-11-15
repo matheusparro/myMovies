@@ -1,0 +1,20 @@
+.swiper {
+    width: 80rem;
+}
+.swiper-slide {
+    height: 400px;
+    line-height: 300px;
+    text-align: center;
+}
+.swiper-button-prev {
+    color: #cccccc;
+    margin-top: 9rem;
+    left: 30rem;
+}
+
+.swiper-button-next {
+    color: #cccccc;
+    margin-top: 9rem;
+    right: 30rem;
+    stroke: black !important;
+}
